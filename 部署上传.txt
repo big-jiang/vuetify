@@ -1,0 +1,6 @@
+tcb hosting:deploy . -e env-web-16c0e3
+tcb hosting:deploy . -e robot-1gk2vy2q8735f96a
+tcb hosting deploy [filePath] [cloudPath]
+
+tcb hosting deploy . -e robot-1gk2vy2q8735f96a
+
